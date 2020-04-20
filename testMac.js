@@ -36,13 +36,3 @@ client.getVendor('44:38:39:ff:ef:57', function (err, result) {
         console.log(result);
     }
 });
-//var myp ='https://www.freeimages.com/photo/close-squirrel-1381764'
-//var myp ='https://images.freeimages.com/images/large-previews/1cb/close-squirrel-1381764.jpg';
-//var mypet='https://flexispot.com/media/catalog/category/massage_banner.jpg';
-//https.get(myp,function(response){
-//	response.pipe(fs.createWriteStream(__dirname+"/mypic.jpg"));
-
-//});
-//https.get(mypet,function(response){
-//	response.pipe(fs.createWriteStream(__dirname+"/mypet.jpg"));
-//});
